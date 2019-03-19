@@ -7,6 +7,6 @@ Calculate similarity of query samples and target sample by window.
 2. dissect_similarity.pl
 Infer the nearest query sample(s) to the target sample for each window.
 
-For more details, please check the usage in the scripts.
+For more details, please check the usage and the codes in the scripts.
 
 Contact: zhuochen@genetics.ac.cn
