@@ -1,5 +1,5 @@
 # VcfWinSim
-Infer similarity between different samples using VCF format varaint data.
+Calculate similarity between different samples using VCF format varaint data for IBS/IBD analysis.
 
 1. windowed_similarity.pl
 
