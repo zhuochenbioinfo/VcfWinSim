@@ -14,4 +14,4 @@ Infer the nearest target sample(s) to the query sample for each window.
 
 For more details, please check the usage and the codes in the scripts.
 
-Contact: zhuochen@genetics.ac.cn
+Contact: chenomics@163.com or zhuochen@genetics.ac.cn
